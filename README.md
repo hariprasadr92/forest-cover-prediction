@@ -1,6 +1,6 @@
 # forest-cover-prediction
 
-## About the poject 
+## About the project 
 
 ML multiclass classification project for forest cover data set
 
